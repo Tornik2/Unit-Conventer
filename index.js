@@ -3,12 +3,6 @@
 1 liter = 0.264 gallon
 1 kilogram = 2.204 pound
 */
-let meter = 1
-let feet = meter * 3.281
-let liter = 1
-let gallon = liter * 0.264
-let kilogram = 1
-let pound = kilogram * 2.204
 const inpText = document.getElementById("inp-text")
 const metP = document.getElementById("met-p")
 const litP = document.getElementById("lit-p")
